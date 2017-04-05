@@ -6,14 +6,13 @@
     <title>AkzenteIT.Analyzers</title>
     <authors>Thomas Krause</authors>
     <owners>Thomas Krause</owners>
-    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
-    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
-    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <licenseUrl>https://github.com/aKzenT/analyzers/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/aKzenT/analyzers/</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>AkzenteIT.Analyzers</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
-    <copyright>Copyright</copyright>
-    <tags>AkzenteIT.Analyzers, analyzers</tags>
+    <releaseNotes>Analyzer that checks that Task objects returned by method invocations are either awaited or otherwise used.</releaseNotes>
+    <copyright>(c) 2017 Akzente.IT</copyright>
+    <tags>AkzenteIT.Analyzers, analyzers, await, async, task</tags>
     <frameworkAssemblies>
       <frameworkAssembly assemblyName="System" targetFramework="" />
     </frameworkAssemblies>
